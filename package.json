@@ -1,0 +1,10 @@
+{
+  "name": "jobmatch-ai",
+  "version": "0.1.0",
+  "description": "AI-powered job matching agent using CoreSpeed's Zypher framework. Analyzes JD-resume fit, finds matching jobs, and provides actionable insights.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
